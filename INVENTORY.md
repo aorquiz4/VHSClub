@@ -1,21 +1,21 @@
 # Inventory
 ---
-| Title (Links)                                                                                    | Wiki        | Trailer       |
-| :---                                                                                             | :---        | :---          |
-| Header                                                                                           | Title       | Here's this   |
-| Paragraph                                                                                        | Text        | And more      |
-| [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)           |             |
-| 3 Ninjas: High Noon at Mega Mountain |             |
-| 2001 Space Odyssey                   |             |
-| 40 Days and 40 Nights                |             |
-| Akira                                |             |
-| Alice In Chains: MTV Unplugged       |             |
-| Alien Resurrection                   |             |
-| Almost Famous                        |             |
-| American Beauty                      |             |
-| American Pie                         |             | 
-| American Pie 2                       |             |
-| American History X                   |             |
+| Movie (Links)                                                                                              | Trailer        | Metascore       |
+| :---                                                                                                       | :---           | :---            |
+| Header                                                                                                     | Title          | Here's this     |
+| Paragraph                                                                                                  | Text           | And more        |
+| [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)                     |                |
+| [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                |
+| [2001 Space Odyssey][1]                                                                                    |                |
+| [40 Days and 40 Nights](https://en.wikipedia.org/wiki/40_Days_and_40_Nights)                               |                |
+| [Akira][2]                                                                                                 |                |
+| [Alice In Chains: MTV Unplugged]()       |             |
+| [Alien Resurrection]()                   |             |
+| [Almost Famous]()                        |             |
+| [American Beauty]()                      |             |
+| [American Pie]()                         |             | 
+| [American Pie 2]()                       |             |
+| [American History X]()                   |             |
 | An American Werewolf in London       |             | 
 | Animatrix                            |             |
 | Austin Powers the Spy Who Shagged Me |             |
@@ -206,3 +206,6 @@
 | Wild one
 | X Files
 | Zoolander
+
+[1]: https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
+[2]: https://en.wikipedia.org/wiki/Akira_(1988_film)
