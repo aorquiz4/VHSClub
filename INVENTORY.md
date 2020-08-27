@@ -1,6 +1,6 @@
 # Inventory
 ---
-| Movie (Links)                                                                                              | Trailer        | Metascore       |
+| Movie (Wiki)                                                                                               | Trailer        | Metascore       |
 | :---                                                                                                       | :---           | :---            |
 | [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)                     |                |
 | [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                |
@@ -17,19 +17,19 @@
 | [An American Werewolf in London](https://en.wikipedia.org/wiki/An_American_Werewolf_in_London)             |                | 
 | [Animatrix](https://en.wikipedia.org/wiki/The_Animatrix)                                                   |                |
 | [Austin Powers the Spy Who Shagged Me](https://en.wikipedia.org/wiki/Austin_Powers:_The_Spy_Who_Shagged_Me)|                |
-| [Back to the Future]()                   |             |
-| [Back to the Future 3]()                 |             |
-| [Bad Boys]()                             |             |
-| [Batman and Robin]()                     |             |
-| [Batman Beyond Return of the Joker]()    |             |
-| [Batman Beyond: Spellbound]()            |             |
-| [Batman Masked Phantasm]()               |             |
-| [Batman Forever]()                       |             |
-| [Batman Returns]()                       |             |
-| [Big Daddy]()                            |             |
-| [Bill and Ted’s Bogus Journey]()         |             |
-| [Billy Madison]()                        |             |
-| [Blade]()                                |             |
+| [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future)                                     |                |
+| [Back to the Future 3](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III)                          |                |
+| [Bad Boys][6]                                                                                              |                |
+| [Batman and Robin][7]                                                                                      |                |
+| [Batman Beyond: Return of the Joker](https://en.wikipedia.org/wiki/Batman_Beyond:_Return_of_the_Joker)     |                |
+| [Batman Beyond](https://en.wikipedia.org/wiki/Batman_Beyond): Spellbound                                   |                |
+| [Batman: Mask of the Phantasm](https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm)                 |                |
+| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)                                             |                |
+| [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)                                             |                |
+| [Big Daddy][8]                                                                                             |                |
+| [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                |
+| [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                |
+| [Blade][9]                                |             |
 | [Blade Runner]()                         |             |
 | [Blair Witch Project]()                  |             |
 | [Bride of Frankenstein]()                |             |
@@ -206,3 +206,7 @@
 [3]: https://en.wikipedia.org/wiki/Unplugged_(Alice_in_Chains_album)
 [4]: https://en.wikipedia.org/wiki/American_Beauty_(1999_film)
 [5]: https://en.wikipedia.org/wiki/American_Pie_(film)
+[6]: https://en.wikipedia.org/wiki/Bad_Boys_(1995_film)
+[7]: https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)
+[8]: https://en.wikipedia.org/wiki/Big_Daddy_(1999_film)
+[9]: https://en.wikipedia.org/wiki/Blade_(film)
