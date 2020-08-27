@@ -29,49 +29,48 @@
 | [Big Daddy][8]                                                                                             |                |
 | [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                |
 | [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                |
-| [Blade][9]                                |             |
-| [Blade Runner]()                         |             |
-| [Blair Witch Project]()                  |             |
-| [Bride of Frankenstein]()                |             |
-| [Brood]()                                |             |
-| [Buffy the Vampire Slayer]() Ep. 1-9     |             |
-| [Cabin Fever]()                          |             |
-| [Candyman]()                             |             |
-| [Casablanca]()                           |             |
-| [Charlie’s Angels]()                     |             |
-| [Christine]()                            |
-| [Class of 1984]()                        | 
-| [Clerks]()                               |
-| [Clueless]()                             |
-| [Creepshow]()                            | 
-| [Cruel Intentions]()
-| [Daredevil]()
-| [Dawn of the Dead]() 
-| [Dazed and Confused]()
-| [Dead Poets Society]()
-| [Demolition Man]()
-| [Demonic Toys]()
-| [Die Hard]()
-| [Die Hard with a Vengeance]()
-| [Doom Generation]()
-| [Dracula (Spanish version)]()
-| [Dumb and Dumber]()
-| [Dungeonmaster]()
-| [Enter The Dragon]()
-| [Face Off]()
-| [Faculty]()
-| [Fargo]()
-| [Fast and the Furious]()
-| [Fifth Element]()
-| [Fight Club]()
-| [Final Destination]()
-| [Friday]()
-| [Friday the 13th]()
-| [Friday the 13th Part 2]()
-| [Friends (Season 1)]()
-| [Fright Night]()
-| [Fright Night Part II]()
-| [Frighteners]()
+| [Blade][9]                                                                                                 |                |
+| [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)                                                 |                |
+| [Blair Witch Project](https://en.wikipedia.org/wiki/The_Blair_Witch_Project)                               |                |
+| [Bride of Frankenstein](https://en.wikipedia.org/wiki/Bride_of_Frankenstein)                               |                |
+| [Brood](https://en.wikipedia.org/wiki/The_Brood)                                                           |                |
+| [Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) Ep. 1-9                 |                |
+| [Cabin Fever][10]                                                                                          |                |
+| [Candyman][11]                                                                                             |                |
+| [Casablanca][12]                                                                                           |                |
+| [Charlie’s Angels][13]                                                                                     |                |
+| [Christine][14]                                                                                            |                |
+| [Class of 1984](https://en.wikipedia.org/wiki/Class_of_1984)                                               |                |
+| [Clerks][15]                                                                                               |                |
+| [Clueless](https://en.wikipedia.org/wiki/Clueless)                                                         |                | 
+| [Creepshow](https://en.wikipedia.org/wiki/Creepshow)                                                       |                | 
+| [Cruel Intentions](https://en.wikipedia.org/wiki/Cruel_Intentions)                                         |                |
+| [Daredevil][16]                                                                                            |                |
+| [Dawn of the Dead][17]                                                                                     |                |
+| [Dazed and Confused][18]                                                                                   |                |
+| [Demolition Man][19]                                                                                       |                |
+| [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                |
+| [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                |
+| [Die Hard with a Vengeance](https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance)                       |                |
+| [Doom Generation](https://en.wikipedia.org/wiki/The_Doom_Generation)                                       |                |
+| [Dracula (Spanish version)][20]                                                                            |                |
+| [Dumb and Dumber](https://en.wikipedia.org/wiki/Dumb_and_Dumber)                                           |                |
+| [Dungeonmaster](https://en.wikipedia.org/wiki/The_Dungeonmaster)                                           |                |
+| [Enter The Dragon](https://en.wikipedia.org/wiki/Enter_the_Dragon)                                         |                |
+| [Face/Off](https://en.wikipedia.org/wiki/Face/Off)                                                         |                |
+| [Faculty](https://en.wikipedia.org/wiki/The_Faculty)                                                       |                |
+| [Fargo][21]                                                                                                |                |
+| [Fast and the Furious](https://en.wikipedia.org/wiki/Fast_%26_Furious)                                     |                | 
+| [Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element)                                           |                |
+| [Fight Club](https://en.wikipedia.org/wiki/Fight_Club)                                                     |                |
+| [Final Destination][22]                                                                                    |                |
+| [Friday][23]                                                                                               |                |
+| [Friday the 13th][24]                                                                                      |                | 
+| [Friday the 13th Part 2](https://en.wikipedia.org/wiki/Friday_the_13th_Part_2)                             |                |
+| [Friends (Season 1)](https://en.wikipedia.org/wiki/Friends)                                                |                |
+| [Fright Night](https://en.wikipedia.org/wiki/Fright_Night)                                                 |                |
+| [Fright Night Part II](https://en.wikipedia.org/wiki/Fright_Night_Part_2)                                  |                |
+| [Frighteners](https://en.wikipedia.org/wiki/The_Frighteners)                                               |                |
 | [Full Metal Jacket]()
 | [Ghostbusters]()
 | [Ghoulies]()
@@ -210,3 +209,18 @@
 [7]: https://en.wikipedia.org/wiki/Batman_%26_Robin_(film)
 [8]: https://en.wikipedia.org/wiki/Big_Daddy_(1999_film)
 [9]: https://en.wikipedia.org/wiki/Blade_(film)
+[10]: https://en.wikipedia.org/wiki/Cabin_Fever_(2002_film)
+[11]: https://en.wikipedia.org/wiki/Candyman_(1992_film)
+[12]: https://en.wikipedia.org/wiki/Casablanca_(film)
+[13]: https://en.wikipedia.org/wiki/Charlie%27s_Angels_(2000_film)
+[14]: https://en.wikipedia.org/wiki/Christine_(1983_film)
+[15]: https://en.wikipedia.org/wiki/Clerks_(film)
+[16]: https://en.wikipedia.org/wiki/Daredevil_(film)
+[17]: https://en.wikipedia.org/wiki/Dawn_of_the_Dead_(1978_film)
+[18]: https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)
+[19]: https://en.wikipedia.org/wiki/Demolition_Man_(film)
+[20]: https://en.wikipedia.org/wiki/Dracula_(1931_Spanish-language_film)
+[21]: https://en.wikipedia.org/wiki/Fargo_(film)
+[22]: https://en.wikipedia.org/wiki/Final_Destination_(film)
+[23]: https://en.wikipedia.org/wiki/Friday_(1995_film)
+[24]: https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)
