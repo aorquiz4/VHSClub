@@ -2,8 +2,6 @@
 ---
 | Movie (Links)                                                                                              | Trailer        | Metascore       |
 | :---                                                                                                       | :---           | :---            |
-| Header                                                                                                     | Title          | Here's this     |
-| Paragraph                                                                                                  | Text           | And more        |
 | [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)                     |                |
 | [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                |
 | [2001 Space Odyssey][1]                                                                                    |                |
