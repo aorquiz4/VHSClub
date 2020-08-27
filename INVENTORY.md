@@ -9,9 +9,9 @@
 | [Akira][2]                                                                                                 |                | RottenTomatoes: [90%](https://www.rottentomatoes.com/m/akira)
 | [Alice In Chains: MTV Unplugged][3]                                                                        |                | N/A
 | [Alien Resurrection](https://en.wikipedia.org/wiki/Alien_Resurrection)                                     |                | Metascore: [63](https://www.metacritic.com/movie/alien-resurrection)
-| [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)                                               |                |
-| [American Beauty][4]                                                                                       |                |
-| [American Pie][5]                                                                                          |                | 
+| [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)                                               |                | Metascore: [90](https://www.metacritic.com/movie/almost-famous)
+| [American Beauty][4]                                                                                       |                | Metascore: [84](https://www.metacritic.com/movie/american-beauty)
+| [American Pie][5]                                                                                          |                | Metascore: [58](https://www.metacritic.com/movie/american-beauty)
 | [American Pie 2](https://en.wikipedia.org/wiki/American_Pie_2)                                             |                |
 | [American History X](https://en.wikipedia.org/wiki/American_History_X)                                     |                |
 | [An American Werewolf in London](https://en.wikipedia.org/wiki/An_American_Werewolf_in_London)             |                | 
