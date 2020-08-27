@@ -3,12 +3,12 @@
 | Movie (Wiki)                                                                                               | Trailer        | Rating          |
 | :---                                                                                                       | :---           | :---            |
 | [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)                     |                | Metascore: [70](https://www.metacritic.com/movie/10-things-i-hate-about-you) |
-| [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                |
-| [2001 Space Odyssey][1]                                                                                    |                |
-| [40 Days and 40 Nights](https://en.wikipedia.org/wiki/40_Days_and_40_Nights)                               |                |
-| [Akira][2]                                                                                                 |                |
-| [Alice In Chains: MTV Unplugged][3]                                                                        |                |
-| [Alien Resurrection](https://en.wikipedia.org/wiki/Alien_Resurrection)                                     |                |
+| [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                | Metascore: [44](https://www.metacritic.com/movie/3-ninjas-high-noon-at-mega-mountain)
+| [2001 Space Odyssey][1]                                                                                    |                | Metascore: [84](https://www.metacritic.com/movie/2001-a-space-odyssey)
+| [40 Days and 40 Nights](https://en.wikipedia.org/wiki/40_Days_and_40_Nights)                               |                | Metascore: [53](https://www.metacritic.com/movie/40-days-and-40-nights)
+| [Akira][2]                                                                                                 |                | RottenTomatoes: [90%](https://www.rottentomatoes.com/m/akira)
+| [Alice In Chains: MTV Unplugged][3]                                                                        |                | N/A
+| [Alien Resurrection](https://en.wikipedia.org/wiki/Alien_Resurrection)                                     |                | Metascore: [63](https://www.metacritic.com/movie/alien-resurrection)
 | [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)                                               |                |
 | [American Beauty][4]                                                                                       |                |
 | [American Pie][5]                                                                                          |                | 
