@@ -71,134 +71,129 @@
 | [Fright Night](https://en.wikipedia.org/wiki/Fright_Night)                                                 |                |
 | [Fright Night Part II](https://en.wikipedia.org/wiki/Fright_Night_Part_2)                                  |                |
 | [Frighteners](https://en.wikipedia.org/wiki/The_Frighteners)                                               |                |
-| [Full Metal Jacket]()
-| [Ghostbusters]()
-| [Ghoulies]()
-| [Gladiator]()
-| [Godfather Part 2]()
-| [Gone in 60 Seconds]()
-| [Goosebumps: Night in Terror Tower]()
-| [Goosebumps: Fever Swamp]()
-| [Graduate]()
-| [Gundam Wing]() 14-16 20-22
-| [Hackers]()
-| [Halloween]()
-| [Halloween: Resurrection]()
-| [Hannibal]()
-| [Happy Madison]()
-| [Happy Gilmore]()
-| [Hills Have Eyes Part 2]()
-| [Hocus Pocus]()
-| [Home Alone: Lost in New York]()
-| [Horror vision]()
-| [House party 2]()
-| [Howling]()
-| [Heavyweights]()
-| [Idle Hands]()
-| [Independence Day]()
-| [Interview with a Vampire]()
-| [IT]()
-| [Jackass]()
-| [Jaws]()
-| [Judge Dredd]()
-| [Jurassic Park]()
-| [Jurassic Park: Lost World]()
-| [Jurassic Park 3]()
-| [Kiss My A$$]()
-| [Mad Max]()
-| [Manhunter]()
-| [Maniac Cop]()
-| [Matrix]()
-| [Men in Black]()
-| [Men in Black II]()
-| [Memento]()
-| [Minority Report]()
-| [Mothman Prophecies]()
-| [Mortal Kombat]()
-| [Mr. Deeds]()
-| [Mummy]()
-| [Near dark]()
-| [Night of the Creeps]()
-| [Night Stalker]()
-| [Nightmare On Elm Street]()
-| [Nightmare on elm street 2]()
-| [Nightmare on elm street 3]()
-| [Nightmare on Elm Street 4]()
-| [Nightmare on Elm Street 5: The Dream Child]()
-| [Night of the living dead]()
-| [Nuke‘em High 2]()
-| [October Sky]()
-| [Phantoms]()
-| [Predator]()
-| [Predator 2]()
-| [Princess Manonoke]()
-| [Psycho Cop]()
-| [Psycho III]()
-| [Pulp Fiction]()
-| [Punch Drunk Love]()
-| [Ranma 1/2]()
-| [Raven]()
-| [Rebel Without a Cause]()
-| [Red Dragon]()
-| [Resident Evil]()
-| [Robo Warriors]()
-| [Royal Tenenbaums]()
-| [Rush Hour]()
-| [Rush Hour 2]()
-| [Salem’s Lot]()
-| [Sandlot]()
-| [Saw]()
-| [Saving Private Ryan]()
-| [Scooby Doo]()
-| [Scooby Doo: The Headless Horseman of Halloween]()
-| [Scooby Doo: Alien Invasion]()
-| [Scooby Doo: Boos Brothers]()
-| [Scooby Doo: Ghoul School]()
-| [Scooby Doo: Reluctant Werewolf]()
-| [Scooby Doo: Zombie Island]()
-| [Scream]()
-| [Scream 2]()
-| [Selena]()
-| [Se7en]()
-| [Shanghai Noon]()
-| [Shawshank Redemption]()
-| [Silence of the Lambs]()
-| [Silver Bullet]()
-| [Sixth Sense]()
-| [Sleepy Hallow]()
-| [Sneakers]()
-| [Sometimes They Come Back... Again]()
-| [Sopranos (Season 1)]()
-| [South Park Bigger Longer Uncut]()
-| [Spawn 2]()
-| [Spawn 3]()
-| [Star Man]()
-| [Starship Troopers]()
-| [Stealing Harvard]()
-| [Stir of Echos]()
-| [Suburbia]()
-| [Tales From the Crypt]() (3 vhs 9 episodes)
-| [Tales From the Crypt Presents Bordello of Blood]()
-| [Texas Chainsaw Massacre 2]()
-| [Texas Chainsaw Massacre: The Next Generation]()
-| [The Thing]()
-| [Ticks]()
-| [Total Recall]()
-| [Toxic Avenger]()
-| [Tremors]()
-| [Tremors 2]()
-| [Troll]()
-| [Twister]()
-| [Usual Suspects]()
-| [Unbreakable]()
-| [Vacation]()
-| [Videodrome]()
-| [Wayne’s World]()
-| [When a Stranger Calls Back]()
-| [Wicker Man]()
-| [Wild one]()
-| [X Files]()
-| [Zoolander]()
+| [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket)                                       |                |
+| [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)                                                 |                |
+| [Ghoulies](https://en.wikipedia.org/wiki/Ghoulies)                                                         |                |
+| [Gladiator][25]                                                                                            |                |
+| [Godfather Part II](https://en.wikipedia.org/wiki/The_Godfather_Part_II)                                   |                |
+| [Gone in 60 Seconds][26]                                                                                   |                |
+| [Goosebumps: Night in Terror Tower][27]                                                                    |                |
+| [Goosebumps: Fever Swamp][27]                                                                              |                |
+| [Graduate](https://en.wikipedia.org/wiki/The_Graduate)                                                     |                |
+| [Mobile Suit Gundam Wing](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing) 14-16 20-22               |                |
+| [Hackers][28]                                                                                              |                |
+| [Halloween][29]                                                                                            |                |
+| [Halloween: Resurrection](https://en.wikipedia.org/wiki/Halloween:_Resurrection)                           |                |
+| [Hannibal][30]                                                                                             |                |
+| [Happy Gilmore](https://en.wikipedia.org/wiki/Happy_Gilmore)                                               |                |
+| [Hills Have Eyes Part 2](https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_Part_II)                        |                |
+| [Hocus Pocus][31]                                                                                          |                |
+| [Home Alone: Lost in New York](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York)               |                |
+| [Horror vision](https://www.imdb.com/title/tt0275410/)                                                     |                |
+| [House party 2](https://en.wikipedia.org/wiki/House_Party_2)                                               |                |
+| [Howling][32]                                                                                              |                |
+| [Heavyweights](https://en.wikipedia.org/wiki/Heavyweights)                                                 |                |
+| [Idle Hands](https://en.wikipedia.org/wiki/Idle_Hands)                                                     |                |
+| [Independence Day][33]                                                                                     |                |
+| [Interview with a Vampire][34]                                                                             |
+| [IT][35]                                                                                                   |
+| [Jackass: The Movie](https://en.wikipedia.org/wiki/Jackass:_The_Movie)                                     |
+| [Jaws][36]
+| [Judge Dredd][37]
+| [Jurassic Park][38]
+| [Jurassic Park: Lost World](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park)
+| [Jurassic Park III](https://en.wikipedia.org/wiki/Jurassic_Park_III)
+| [Kiss My A$$](https://en.wikipedia.org/wiki/Kiss_My_Ass:_Classic_Kiss_Regrooved)
+| [Mad Max](https://en.wikipedia.org/wiki/Mad_Max)
+| [Manhunter][39]
+| [Maniac Cop](https://en.wikipedia.org/wiki/Maniac_Cop)
+| [Matrix](https://en.wikipedia.org/wiki/The_Matrix)
+| [Men in Black][40]
+| [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II)
+| [Memento][41]
+| [Minority Report][42]
+| [Mothman Prophecies][43]
+| [Mortal Kombat][44]
+| [Mr. Deeds](https://en.wikipedia.org/wiki/Mr._Deeds)
+| [Mummy][45]
+| [Near dark](https://en.wikipedia.org/wiki/Near_Dark)
+| [Night of the Creeps](https://en.wikipedia.org/wiki/Night_of_the_Creeps)
+| [Night Stalker](https://en.wikipedia.org/wiki/The_Night_Stalker_(1987_film))
+| [Nightmare On Elm Street](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street)
+| [Nightmare on elm street 2](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge)
+| [Nightmare on elm street 3](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3:_Dream_Warriors)
+| [Nightmare on Elm Street 4](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_4:_The_Dream_Master)
+| [Nightmare on Elm Street 5: The Dream Child](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_5:_The_Dream_Child)
+| [Night of the living dead](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)
+| [Nuke‘em High 2](https://en.wikipedia.org/wiki/Class_of_Nuke_%27Em_High_2:_Subhumanoid_Meltdown)
+| [October Sky](https://en.wikipedia.org/wiki/October_Sky)
+| [One Hour Photo](https://en.wikipedia.org/wiki/One_Hour_Photo)
+| [Phantoms][46]
+| [Predator][47]
+| [Predator 2](https://en.wikipedia.org/wiki/Predator_2)
+| [Princess Manonoke](https://en.wikipedia.org/wiki/Princess_Mononoke)
+| [Psycho Cop](https://en.wikipedia.org/wiki/Psycho_Cop)
+| [Psycho III](https://en.wikipedia.org/wiki/Psycho_III)
+| [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
+| [Punch Drunk Love](https://en.wikipedia.org/wiki/Punch-Drunk_Love)
+| [Ranma 1/2](https://en.wikipedia.org/wiki/Ranma_%C2%BD)
+| [Raven][48]
+| [Rebel Without a Cause](https://en.wikipedia.org/wiki/Rebel_Without_a_Cause)
+| [Red Dragon][49]
+| [Resident Evil][50]
+| [Robo Warriors](https://www.imdb.com/title/tt0117497/)
+| [Royal Tenenbaums](https://en.wikipedia.org/wiki/The_Royal_Tenenbaums)
+| [Rush Hour][51]
+| [Rush Hour 2](https://en.wikipedia.org/wiki/Rush_Hour_2)
+| [Salem’s Lot][52]
+| [Sandlot](https://en.wikipedia.org/wiki/The_Sandlot)
+| [Saw][53]
+| [Saving Private Ryan](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
+| [Scooby Doo][54]
+| [Scooby Doo: Zombie Island](https://en.wikipedia.org/wiki/Scooby-Doo_on_Zombie_Island)
+| [Scream][55]
+| [Scream 2](https://en.wikipedia.org/wiki/Scream_2)
+| [Selena][56]
+| [Se7en][57]
+| [Shanghai Noon](https://en.wikipedia.org/wiki/Shanghai_Noon)
+| [Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
+| [Silence of the Lambs][58]
+| [Silver Bullet][59]
+| [Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
+| [Sleepy Hallow][60]
+| [Sneakers][61]
+| [Sometimes They Come Back... Again](https://en.wikipedia.org/wiki/Sometimes_They_Come_Back..._Again)
+| [Sopranos (Season 1)](https://en.wikipedia.org/wiki/The_Sopranos)
+| [South Park Bigger Longer Uncut](https://en.wikipedia.org/wiki/South_Park:_Bigger,_Longer_%26_Uncut)
+| [Spawn 2](https://www.imdb.com/title/tt4641828/)
+| [Spawn 3](https://www.imdb.com/title/tt4641882/)
+| [Starman][62]
+| [Starship Troopers][63]
+| [Stealing Harvard](https://en.wikipedia.org/wiki/Stealing_Harvard)
+| [Stir of Echos](https://en.wikipedia.org/wiki/Stir_of_Echoes)
+| [Suburbia][64]
+| [Tales From the Crypt][65] (9 episodes)
+| [Tales From the Crypt Presents Bordello of Blood](https://en.wikipedia.org/wiki/Bordello_of_Blood)
+| [Texas Chainsaw Massacre 2](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2)
+| [Texas Chainsaw Massacre: The Next Generation](https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation)
+| [The Thing][66]
+| [Ticks][67]
+| [Total Recall][68]
+| [Toxic Avenger][69]
+| [Tremors][70]
+| [Tremors 2](https://en.wikipedia.org/wiki/Tremors_2:_Aftershocks)
+| [Troll][71]
+| [Twister][72]
+| [Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
+| [Unbreakable][73]
+| [Vacation](https://en.wikipedia.org/wiki/National_Lampoon%27s_Vacation)
+| [Videodrome](https://en.wikipedia.org/wiki/Videodrome)
+| [Wayne’s World][74]
+| [When a Stranger Calls Back](https://en.wikipedia.org/wiki/When_a_Stranger_Calls_Back)
+| [Wicker Man](https://en.wikipedia.org/wiki/The_Wicker_Man)
+| [Wild one](https://en.wikipedia.org/wiki/The_Wild_One)
+| [X Files][75]
+| [Zoolander](https://en.wikipedia.org/wiki/Zoolander)
 
 [1]: https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
 [2]: https://en.wikipedia.org/wiki/Akira_(1988_film)
@@ -224,3 +219,54 @@
 [22]: https://en.wikipedia.org/wiki/Final_Destination_(film)
 [23]: https://en.wikipedia.org/wiki/Friday_(1995_film)
 [24]: https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)
+[25]: https://en.wikipedia.org/wiki/Gladiator_(2000_film)
+[26]: https://en.wikipedia.org/wiki/Gone_in_60_Seconds_(2000_film)
+[27]: https://en.wikipedia.org/wiki/Goosebumps_(TV_series)
+[28]: https://en.wikipedia.org/wiki/Hackers_(film)
+[29]: https://en.wikipedia.org/wiki/Halloween_(1978_film)
+[30]: https://en.wikipedia.org/wiki/Hannibal_(2001_film)
+[31]: https://en.wikipedia.org/wiki/Hocus_Pocus_(1993_film)
+[32]: https://en.wikipedia.org/wiki/The_Howling_(film)
+[33]: https://en.wikipedia.org/wiki/Independence_Day_(1996_film)
+[34]: https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)
+[35]: https://en.wikipedia.org/wiki/It_(miniseries)
+[36]: https://en.wikipedia.org/wiki/Jaws_(film)
+[37]: https://en.wikipedia.org/wiki/Judge_Dredd_(film)
+[38]: https://en.wikipedia.org/wiki/Jurassic_Park_(film)
+[39]: https://en.wikipedia.org/wiki/Manhunter_(film)
+[40]: https://en.wikipedia.org/wiki/Men_in_Black_(1997_film)
+[41]: https://en.wikipedia.org/wiki/Memento_(film)
+[42]: https://en.wikipedia.org/wiki/Minority_Report_(film)
+[43]: https://en.wikipedia.org/wiki/The_Mothman_Prophecies_(film)
+[44]: https://en.wikipedia.org/wiki/Mortal_Kombat_(1995_film)
+[45]: https://en.wikipedia.org/wiki/The_Mummy_(1999_film)
+[46]: https://en.wikipedia.org/wiki/Phantoms_(film)
+[47]: https://en.wikipedia.org/wiki/Predator_(film)
+[48]: https://en.wikipedia.org/wiki/The_Raven_(1963_film)
+[49]: https://en.wikipedia.org/wiki/Red_Dragon_(2002_film)
+[50]: https://en.wikipedia.org/wiki/Resident_Evil_(film)
+[51]: https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)
+[52]: https://en.wikipedia.org/wiki/Salem%27s_Lot_(1979_miniseries)
+[53]: https://en.wikipedia.org/wiki/Saw_(2003_film)
+[54]: https://en.wikipedia.org/wiki/Scooby-Doo_(film)
+[55]: https://en.wikipedia.org/wiki/Scream_(1996_film)
+[56]: https://en.wikipedia.org/wiki/Selena_(film)
+[57]: https://en.wikipedia.org/wiki/Seven_(1995_film)
+[58]: https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)
+[59]: https://en.wikipedia.org/wiki/Silver_Bullet_(film)
+[60]: https://en.wikipedia.org/wiki/Sleepy_Hollow_(film)
+[61]: https://en.wikipedia.org/wiki/Sneakers_(1992_film)
+[62]: https://en.wikipedia.org/wiki/Starman_(film)
+[63]: https://en.wikipedia.org/wiki/Starship_Troopers_(film)
+[64]: https://en.wikipedia.org/wiki/SubUrbia_(film)
+[65]: https://en.wikipedia.org/wiki/Tales_from_the_Crypt_(TV_series)
+[66]: https://en.wikipedia.org/wiki/The_Thing_(1982_film)
+[67]: https://en.wikipedia.org/wiki/Ticks_(film)
+[68]: https://en.wikipedia.org/wiki/Total_Recall_(1990_film)
+[69]: https://en.wikipedia.org/wiki/The_Toxic_Avenger_(film)
+[70]: https://en.wikipedia.org/wiki/Tremors_(film)
+[71]: https://en.wikipedia.org/wiki/Troll_(film)
+[72]: https://en.wikipedia.org/wiki/Twister_(1996_film)
+[73]: https://en.wikipedia.org/wiki/Unbreakable_(film)
+[74]: https://en.wikipedia.org/wiki/Wayne%27s_World_(film)
+[75]: https://en.wikipedia.org/wiki/The_X-Files_(film)
