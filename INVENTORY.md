@@ -53,7 +53,8 @@
 | [Dark](https://www.imdb.com/title/tt0079027/) **Coming Soon**                                              |                |
 | [Dawn of the Dead][17]                                                                                     |                |
 | [Dazed and Confused][18]                                                                                   |                |
-| [Daedly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                |
+| [Debbie Does Dallas](https://en.wikipedia.org/wiki/Debbie_Does_Dallas) **Coming Soon**                     |                |
+| [Deadly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                |
 | [Demolition Man][19]                                                                                       |                |
 | [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                |
 | [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                |
