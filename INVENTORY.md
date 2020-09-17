@@ -35,7 +35,7 @@
 | [Bride of Frankenstein](https://en.wikipedia.org/wiki/Bride_of_Frankenstein)                               |                | Metascore: [95](https://www.metacritic.com/movie/the-bride-of-frankenstein)
 | [Brood](https://en.wikipedia.org/wiki/The_Brood)                                                           |                | Metascore: [63](https://www.metacritic.com/movie/the-brood)
 | [Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) Ep. 1-9                 |                | Metascore: [85](https://www.metacritic.com/tv/buffy-the-vampire-slayer)
-| [Cabin Fever][10]                                                                                          |                |
+| [Cabin Fever][10]                                                                                          |                | Metascore: [56](https://www.metacritic.com/movie/cabin-fever)
 | [Candyman][11]                                                                                             |                |
 | [Casablanca][12]                                                                                           |                |
 | [Castle Freak](https://en.wikipedia.org/wiki/Castle_Freak)                                                 |                |
