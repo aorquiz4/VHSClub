@@ -58,6 +58,7 @@
 | [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                |
 | [Die Hard with a Vengeance](https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance)                       |                |
 | [Doom Generation](https://en.wikipedia.org/wiki/The_Doom_Generation)                                       |                |
+| [Dr. Giggles](https://en.wikipedia.org/wiki/Dr._Giggles)                                                   |                |
 | [Dracula (Spanish version)][20]                                                                            |                |
 | [Dumb and Dumber](https://en.wikipedia.org/wiki/Dumb_and_Dumber)                                           |                |
 | [Dungeonmaster](https://en.wikipedia.org/wiki/The_Dungeonmaster)                                           |                |
@@ -158,6 +159,7 @@
 | [Red Dragon][49]
 | [Resident Evil][50]
 | [Robo Warriors](https://www.imdb.com/title/tt0117497/)
+| [Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)
 | [Royal Tenenbaums](https://en.wikipedia.org/wiki/The_Royal_Tenenbaums)
 | [Rush Hour][51]
 | [Rush Hour 2](https://en.wikipedia.org/wiki/Rush_Hour_2)
@@ -176,6 +178,7 @@
 | [Silence of the Lambs][58]
 | [Silver Bullet][59]
 | [Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
+| [Sleepaway Camp](https://en.wikipedia.org/wiki/Sleepaway_Camp)
 | [Sleepy Hallow][60]
 | [Sneakers][61]
 | [Society][83] **Coming Soon**
@@ -192,6 +195,7 @@
 | [Suburbia][64]
 | [Tales From the Crypt][65] (9 episodes)
 | [Tales From the Crypt Presents Bordello of Blood](https://en.wikipedia.org/wiki/Bordello_of_Blood)
+| [Tales From the Darkside](https://en.wikipedia.org/wiki/Tales_from_the_Darkside:_The_Movie) **Coming Soon**
 | [TerrorVision](https://en.wikipedia.org/wiki/TerrorVision)
 | [Texas Chainsaw Massacre 2](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2)
 | [Texas Chainsaw Massacre: The Next Generation](https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation)
