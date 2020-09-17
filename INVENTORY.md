@@ -50,6 +50,7 @@
 | [Critters][81] **Coming Soon**                                                                             |                |
 | [Cruel Intentions](https://en.wikipedia.org/wiki/Cruel_Intentions)                                         |                |
 | [Daredevil][16]                                                                                            |                |
+| [Dark](https://www.imdb.com/title/tt0079027/) **Coming Soon**                                              |                |
 | [Dawn of the Dead][17]                                                                                     |                |
 | [Dazed and Confused][18]                                                                                   |                |
 | [Daedly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                |
@@ -116,6 +117,7 @@
 | [Jurassic Park III](https://en.wikipedia.org/wiki/Jurassic_Park_III)
 | [Kill Klowns from Outer Space](https://en.wikipedia.org/wiki/Killer_Klowns_from_Outer_Space)
 | [Kiss My A$$](https://en.wikipedia.org/wiki/Kiss_My_Ass:_Classic_Kiss_Regrooved)
+| [Last Horror Film](https://en.wikipedia.org/wiki/The_Last_Horror_Film) **Coming Soon**  
 | [Mad Max](https://en.wikipedia.org/wiki/Mad_Max)
 | [Manhunter][39]
 | [Maniac][82] **Coming Soon**
