@@ -26,6 +26,7 @@
 | [Batman: Mask of the Phantasm](https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm)                 |                |
 | [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)                                             |                |
 | [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)                                             |                |
+| [Beyond the Door II][76]                                                                                   |                |
 | [Big Daddy][8]                                                                                             |                |
 | [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                |
 | [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                |
@@ -38,16 +39,20 @@
 | [Cabin Fever][10]                                                                                          |                |
 | [Candyman][11]                                                                                             |                |
 | [Casablanca][12]                                                                                           |                |
+| [Castle Freak](https://en.wikipedia.org/wiki/Castle_Freak)                                                 |                |
 | [Charlie’s Angels][13]                                                                                     |                |
+| [Chopping Mall](https://en.wikipedia.org/wiki/Chopping_Mall)                                               |                |
 | [Christine][14]                                                                                            |                |
 | [Class of 1984](https://en.wikipedia.org/wiki/Class_of_1984)                                               |                |
 | [Clerks][15]                                                                                               |                |
 | [Clueless](https://en.wikipedia.org/wiki/Clueless)                                                         |                | 
 | [Creepshow](https://en.wikipedia.org/wiki/Creepshow)                                                       |                | 
+| [Critters][81] **Coming Soon**                                                                             |                |
 | [Cruel Intentions](https://en.wikipedia.org/wiki/Cruel_Intentions)                                         |                |
 | [Daredevil][16]                                                                                            |                |
 | [Dawn of the Dead][17]                                                                                     |                |
 | [Dazed and Confused][18]                                                                                   |                |
+| [Daedly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                |
 | [Demolition Man][19]                                                                                       |                |
 | [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                |
 | [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                |
@@ -57,6 +62,7 @@
 | [Dumb and Dumber](https://en.wikipedia.org/wiki/Dumb_and_Dumber)                                           |                |
 | [Dungeonmaster](https://en.wikipedia.org/wiki/The_Dungeonmaster)                                           |                |
 | [Enter The Dragon](https://en.wikipedia.org/wiki/Enter_the_Dragon)                                         |                |
+| [Evil Dead 2](https://en.wikipedia.org/wiki/Evil_Dead_II)                                                  |                |
 | [Face/Off](https://en.wikipedia.org/wiki/Face/Off)                                                         |                |
 | [Faculty](https://en.wikipedia.org/wiki/The_Faculty)                                                       |                |
 | [Fargo][21]                                                                                                |                |
@@ -67,10 +73,12 @@
 | [Friday][23]                                                                                               |                |
 | [Friday the 13th][24]                                                                                      |                | 
 | [Friday the 13th Part 2](https://en.wikipedia.org/wiki/Friday_the_13th_Part_2)                             |                |
+| [Friday the 13th Part 3](https://en.wikipedia.org/wiki/Friday_the_13th_Part_III)                           |                |
 | [Friends (Season 1)](https://en.wikipedia.org/wiki/Friends)                                                |                |
 | [Fright Night](https://en.wikipedia.org/wiki/Fright_Night)                                                 |                |
 | [Fright Night Part II](https://en.wikipedia.org/wiki/Fright_Night_Part_2)                                  |                |
 | [Frighteners](https://en.wikipedia.org/wiki/The_Frighteners)                                               |                |
+| [From Beyond][79]                                                                                          |                |
 | [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket)                                       |                |
 | [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)                                                 |                |
 | [Ghoulies](https://en.wikipedia.org/wiki/Ghoulies)                                                         |                |
@@ -80,6 +88,7 @@
 | [Goosebumps: Night in Terror Tower][27]                                                                    |                |
 | [Goosebumps: Fever Swamp][27]                                                                              |                |
 | [Graduate](https://en.wikipedia.org/wiki/The_Graduate)                                                     |                |
+| [Grind][77]                                                                                                |                |
 | [Mobile Suit Gundam Wing](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing) 14-16 20-22               |                |
 | [Hackers][28]                                                                                              |                |
 | [Halloween][29]                                                                                            |                |
@@ -99,19 +108,24 @@
 | [IT][35]                                                                                                   |
 | [Jackass: The Movie](https://en.wikipedia.org/wiki/Jackass:_The_Movie)                                     |
 | [Jaws][36]
+| [Johnny Mnemonic][78]
 | [Judge Dredd][37]
 | [Jurassic Park][38]
 | [Jurassic Park: Lost World](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park)
 | [Jurassic Park III](https://en.wikipedia.org/wiki/Jurassic_Park_III)
+| [Kill Klowns from Outer Space](https://en.wikipedia.org/wiki/Killer_Klowns_from_Outer_Space)
 | [Kiss My A$$](https://en.wikipedia.org/wiki/Kiss_My_Ass:_Classic_Kiss_Regrooved)
 | [Mad Max](https://en.wikipedia.org/wiki/Mad_Max)
 | [Manhunter][39]
+| [Maniac][82] **Coming Soon**
 | [Maniac Cop](https://en.wikipedia.org/wiki/Maniac_Cop)
 | [Matrix](https://en.wikipedia.org/wiki/The_Matrix)
 | [Men in Black][40]
 | [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II)
 | [Memento][41]
+| [Midnight Cabaret](https://www.imdb.com/title/tt0100146/)
 | [Minority Report][42]
+| [Mirror of Death](https://www.imdb.com/title/tt0130604/)
 | [Mothman Prophecies][43]
 | [Mortal Kombat][44]
 | [Mr. Deeds](https://en.wikipedia.org/wiki/Mr._Deeds)
@@ -136,8 +150,10 @@
 | [Psycho III](https://en.wikipedia.org/wiki/Psycho_III)
 | [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
 | [Punch Drunk Love](https://en.wikipedia.org/wiki/Punch-Drunk_Love)
+| [Return of the Living Dead](https://en.wikipedia.org/wiki/The_Return_of_the_Living_Dead)
 | [Ranma 1/2](https://en.wikipedia.org/wiki/Ranma_%C2%BD)
 | [Raven][48]
+| [Re-Animator](https://en.wikipedia.org/wiki/Re-Animator)
 | [Rebel Without a Cause](https://en.wikipedia.org/wiki/Rebel_Without_a_Cause)
 | [Red Dragon][49]
 | [Resident Evil][50]
@@ -162,11 +178,13 @@
 | [Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
 | [Sleepy Hallow][60]
 | [Sneakers][61]
+| [Society][83] **Coming Soon**
 | [Sometimes They Come Back... Again](https://en.wikipedia.org/wiki/Sometimes_They_Come_Back..._Again)
 | [Sopranos (Season 1)](https://en.wikipedia.org/wiki/The_Sopranos)
 | [South Park Bigger Longer Uncut](https://en.wikipedia.org/wiki/South_Park:_Bigger,_Longer_%26_Uncut)
 | [Spawn 2](https://www.imdb.com/title/tt4641828/)
 | [Spawn 3](https://www.imdb.com/title/tt4641882/)
+| [Spookies](https://en.wikipedia.org/wiki/Spookies)
 | [Starman][62]
 | [Starship Troopers][63]
 | [Stealing Harvard](https://en.wikipedia.org/wiki/Stealing_Harvard)
@@ -174,6 +192,7 @@
 | [Suburbia][64]
 | [Tales From the Crypt][65] (9 episodes)
 | [Tales From the Crypt Presents Bordello of Blood](https://en.wikipedia.org/wiki/Bordello_of_Blood)
+| [TerrorVision](https://en.wikipedia.org/wiki/TerrorVision)
 | [Texas Chainsaw Massacre 2](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2)
 | [Texas Chainsaw Massacre: The Next Generation](https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation)
 | [The Thing][66]
@@ -185,6 +204,7 @@
 | [Troll][71]
 | [Twister][72]
 | [Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
+| [Unborn][80]
 | [Unbreakable][73]
 | [Vacation](https://en.wikipedia.org/wiki/National_Lampoon%27s_Vacation)
 | [Videodrome](https://en.wikipedia.org/wiki/Videodrome)
@@ -270,3 +290,11 @@
 [73]: https://en.wikipedia.org/wiki/Unbreakable_(film)
 [74]: https://en.wikipedia.org/wiki/Wayne%27s_World_(film)
 [75]: https://en.wikipedia.org/wiki/The_X-Files_(film)
+[76]: https://en.wikipedia.org/wiki/Shock_(1977_film)
+[77]: https://en.wikipedia.org/wiki/Grind_(2003_film)
+[78]: https://en.wikipedia.org/wiki/Johnny_Mnemonic_(film)
+[79]: https://en.wikipedia.org/wiki/From_Beyond_(film)
+[80]: https://en.wikipedia.org/wiki/The_Unborn_(1991_film)
+[81]: https://en.wikipedia.org/wiki/Critters_(film)
+[82]: https://en.wikipedia.org/wiki/Maniac_(1980_film)
+[83]: https://en.wikipedia.org/wiki/Society_(film)
