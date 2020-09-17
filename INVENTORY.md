@@ -12,21 +12,20 @@
 | [Almost Famous](https://en.wikipedia.org/wiki/Almost_Famous)                                               |                | Metascore: [90](https://www.metacritic.com/movie/almost-famous)
 | [American Beauty][4]                                                                                       |                | Metascore: [84](https://www.metacritic.com/movie/american-beauty)
 | [American Pie][5]                                                                                          |                | Metascore: [58](https://www.metacritic.com/movie/american-beauty)
-| [American Pie 2](https://en.wikipedia.org/wiki/American_Pie_2)                                             |                |
-| [American History X](https://en.wikipedia.org/wiki/American_History_X)                                     |                |
-| [An American Werewolf in London](https://en.wikipedia.org/wiki/An_American_Werewolf_in_London)             |                | 
-| [Animatrix](https://en.wikipedia.org/wiki/The_Animatrix)                                                   |                |
-| [Austin Powers the Spy Who Shagged Me](https://en.wikipedia.org/wiki/Austin_Powers:_The_Spy_Who_Shagged_Me)|                |
-| [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future)                                     |                |
-| [Back to the Future 3](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III)                          |                |
-| [Bad Boys][6]                                                                                              |                |
-| [Batman and Robin][7]                                                                                      |                |
-| [Batman Beyond: Return of the Joker](https://en.wikipedia.org/wiki/Batman_Beyond:_Return_of_the_Joker)     |                |
-| [Batman Beyond](https://en.wikipedia.org/wiki/Batman_Beyond): Spellbound                                   |                |
-| [Batman: Mask of the Phantasm](https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm)                 |                |
-| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)                                             |                |
-| [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)                                             |                |
-| [Beyond the Door II][76]                                                                                   |                |
+| [American Pie 2](https://en.wikipedia.org/wiki/American_Pie_2)                                             |                | Metascore: [43](https://www.metacritic.com/movie/american-pie-2)
+| [American History X](https://en.wikipedia.org/wiki/American_History_X)                                     |                | Metascore: [62](https://www.metacritic.com/movie/american-history-x)
+| [An American Werewolf in London](https://en.wikipedia.org/wiki/An_American_Werewolf_in_London)             |                | Metascore: [60](https://www.metacritic.com/movie/an-american-werewolf-in-london)
+| [Animatrix](https://en.wikipedia.org/wiki/The_Animatrix)                                                   |                | RottenTomatoes: [89%](https://www.rottentomatoes.com/m/animatrix)
+| [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future)                                     |                | Metascore: [87](https://www.metacritic.com/movie/back-to-the-future)
+| [Back to the Future 3](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III)                          |                | Metascore: [55](https://www.metacritic.com/movie/back-to-the-future-part-iii)
+| [Bad Boys][6]                                                                                              |                | Metascore: [41](https://www.metacritic.com/movie/bad-boys)
+| [Batman and Robin][7]                                                                                      |                | Metascore: [28](https://www.metacritic.com/movie/batman-robin)
+| [Batman Beyond: Return of the Joker](https://en.wikipedia.org/wiki/Batman_Beyond:_Return_of_the_Joker)     |                | RottenTomatoes: [91%](https://www.rottentomatoes.com/m/batman_beyond_return_of_the_joker)
+| [Batman Beyond](https://en.wikipedia.org/wiki/Batman_Beyond): Spellbound                                   |                | N/A
+| [Batman: Mask of the Phantasm](https://en.wikipedia.org/wiki/Batman:_Mask_of_the_Phantasm)                 |                | RottenTomatoes: [84%](https://www.rottentomatoes.com/m/batman_mask_of_the_phantasm)
+| [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)                                             |                | Metascore: [51](https://www.metacritic.com/movie/batman-forever)
+| [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)                                             |                | Metascore: [68](https://www.metacritic.com/movie/batman-returns)
+| [Beyond the Door II][76]                                                                                   |                | RottenTomatoes: [43%](https://www.rottentomatoes.com/m/beyond_the_door_ii)
 | [Big Daddy][8]                                                                                             |                |
 | [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                |
 | [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                |
