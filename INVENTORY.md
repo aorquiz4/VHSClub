@@ -26,15 +26,15 @@
 | [Batman Forever](https://en.wikipedia.org/wiki/Batman_Forever)                                             |                | Metascore: [51](https://www.metacritic.com/movie/batman-forever)
 | [Batman Returns](https://en.wikipedia.org/wiki/Batman_Returns)                                             |                | Metascore: [68](https://www.metacritic.com/movie/batman-returns)
 | [Beyond the Door II][76]                                                                                   |                | RottenTomatoes: [43%](https://www.rottentomatoes.com/m/beyond_the_door_ii)
-| [Big Daddy][8]                                                                                             |                |
-| [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                |
-| [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                |
-| [Blade][9]                                                                                                 |                |
-| [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)                                                 |                |
-| [Blair Witch Project](https://en.wikipedia.org/wiki/The_Blair_Witch_Project)                               |                |
-| [Bride of Frankenstein](https://en.wikipedia.org/wiki/Bride_of_Frankenstein)                               |                |
-| [Brood](https://en.wikipedia.org/wiki/The_Brood)                                                           |                |
-| [Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) Ep. 1-9                 |                |
+| [Big Daddy][8]                                                                                             |                | Metascore: [41](https://www.metacritic.com/movie/big-daddy)
+| [Bill and Ted’s Bogus Journey](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Bogus_Journey)               |                | Metascore: [60](https://www.metacritic.com/movie/bill-teds-bogus-journey)
+| [Billy Madison](https://en.wikipedia.org/wiki/Billy_Madison)                                               |                | Metascore: [16](https://www.metacritic.com/movie/billy-madison)
+| [Blade][9]                                                                                                 |                | Metascore: [45](https://www.metacritic.com/movie/blade)
+| [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner)                                                 |                | Metascore: [84](https://www.metacritic.com/movie/blade-runner)
+| [Blair Witch Project](https://en.wikipedia.org/wiki/The_Blair_Witch_Project)                               |                | Metascore: [81](https://www.metacritic.com/movie/the-blair-witch-project)
+| [Bride of Frankenstein](https://en.wikipedia.org/wiki/Bride_of_Frankenstein)                               |                | Metascore: [95](https://www.metacritic.com/movie/the-bride-of-frankenstein)
+| [Brood](https://en.wikipedia.org/wiki/The_Brood)                                                           |                | Metascore: [63](https://www.metacritic.com/movie/the-brood)
+| [Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) Ep. 1-9                 |                | Metascore: [85](https://www.metacritic.com/tv/buffy-the-vampire-slayer)
 | [Cabin Fever][10]                                                                                          |                |
 | [Candyman][11]                                                                                             |                |
 | [Casablanca][12]                                                                                           |                |
