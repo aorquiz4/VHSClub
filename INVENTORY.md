@@ -36,190 +36,195 @@
 | [Brood](https://en.wikipedia.org/wiki/The_Brood)                                                           |                | Metascore: [63](https://www.metacritic.com/movie/the-brood)
 | [Buffy the Vampire Slayer](https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer) Ep. 1-9                 |                | Metascore: [85](https://www.metacritic.com/tv/buffy-the-vampire-slayer)
 | [Cabin Fever][10]                                                                                          |                | Metascore: [56](https://www.metacritic.com/movie/cabin-fever)
-| [Candyman][11]                                                                                             |                |
-| [Casablanca][12]                                                                                           |                |
-| [Castle Freak](https://en.wikipedia.org/wiki/Castle_Freak)                                                 |                |
-| [Charlie’s Angels][13]                                                                                     |                |
-| [Chopping Mall](https://en.wikipedia.org/wiki/Chopping_Mall)                                               |                |
-| [Christine][14]                                                                                            |                |
-| [Class of 1984](https://en.wikipedia.org/wiki/Class_of_1984)                                               |                |
-| [Clerks][15]                                                                                               |                |
-| [Clueless](https://en.wikipedia.org/wiki/Clueless)                                                         |                | 
-| [Creepshow](https://en.wikipedia.org/wiki/Creepshow)                                                       |                | 
-| [Critters][81] **Coming Soon**                                                                             |                |
-| [Cruel Intentions](https://en.wikipedia.org/wiki/Cruel_Intentions)                                         |                |
-| [Daredevil][16]                                                                                            |                |
-| [Dark](https://www.imdb.com/title/tt0079027/) **Coming Soon**                                              |                |
-| [Dawn of the Dead][17]                                                                                     |                |
-| [Dazed and Confused][18]                                                                                   |                |
-| [Debbie Does Dallas](https://en.wikipedia.org/wiki/Debbie_Does_Dallas) **Coming Soon**                     |                |
-| [Deadly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                |
-| [Demolition Man][19]                                                                                       |                |
-| [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                |
-| [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                |
-| [Die Hard with a Vengeance](https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance)                       |                |
-| [Doom Generation](https://en.wikipedia.org/wiki/The_Doom_Generation)                                       |                |
-| [Dr. Giggles](https://en.wikipedia.org/wiki/Dr._Giggles)                                                   |                |
-| [Dracula (Spanish version)][20]                                                                            |                |
-| [Dumb and Dumber](https://en.wikipedia.org/wiki/Dumb_and_Dumber)                                           |                |
-| [Dungeonmaster](https://en.wikipedia.org/wiki/The_Dungeonmaster)                                           |                |
-| [Enter The Dragon](https://en.wikipedia.org/wiki/Enter_the_Dragon)                                         |                |
-| [Evil Dead 2](https://en.wikipedia.org/wiki/Evil_Dead_II)                                                  |                |
-| [Face/Off](https://en.wikipedia.org/wiki/Face/Off)                                                         |                |
-| [Faculty](https://en.wikipedia.org/wiki/The_Faculty)                                                       |                |
-| [Fargo][21]                                                                                                |                |
-| [Fast and the Furious](https://en.wikipedia.org/wiki/Fast_%26_Furious)                                     |                | 
-| [Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element)                                           |                |
-| [Fight Club](https://en.wikipedia.org/wiki/Fight_Club)                                                     |                |
-| [Final Destination][22]                                                                                    |                |
-| [Friday][23]                                                                                               |                |
-| [Friday the 13th][24]                                                                                      |                | 
-| [Friday the 13th Part 2](https://en.wikipedia.org/wiki/Friday_the_13th_Part_2)                             |                |
-| [Friday the 13th Part 3](https://en.wikipedia.org/wiki/Friday_the_13th_Part_III)                           |                |
-| [Friends (Season 1)](https://en.wikipedia.org/wiki/Friends)                                                |                |
-| [Fright Night](https://en.wikipedia.org/wiki/Fright_Night)                                                 |                |
-| [Fright Night Part II](https://en.wikipedia.org/wiki/Fright_Night_Part_2)                                  |                |
-| [Frighteners](https://en.wikipedia.org/wiki/The_Frighteners)                                               |                |
-| [From Beyond][79]                                                                                          |                |
-| [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket)                                       |                |
-| [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)                                                 |                |
-| [Ghoulies](https://en.wikipedia.org/wiki/Ghoulies)                                                         |                |
-| [Gladiator][25]                                                                                            |                |
-| [Godfather Part II](https://en.wikipedia.org/wiki/The_Godfather_Part_II)                                   |                |
-| [Gone in 60 Seconds][26]                                                                                   |                |
-| [Goosebumps: Night in Terror Tower][27]                                                                    |                |
-| [Goosebumps: Fever Swamp][27]                                                                              |                |
-| [Graduate](https://en.wikipedia.org/wiki/The_Graduate)                                                     |                |
-| [Grind][77]                                                                                                |                |
-| [Mobile Suit Gundam Wing](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing) 14-16 20-22               |                |
-| [Hackers][28]                                                                                              |                |
-| [Halloween][29]                                                                                            |                |
-| [Halloween: Resurrection](https://en.wikipedia.org/wiki/Halloween:_Resurrection)                           |                |
-| [Hannibal][30]                                                                                             |                |
-| [Happy Gilmore](https://en.wikipedia.org/wiki/Happy_Gilmore)                                               |                |
-| [Hills Have Eyes Part 2](https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_Part_II)                        |                |
-| [Hocus Pocus][31]                                                                                          |                |
-| [Home Alone: Lost in New York](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York)               |                |
-| [Horror vision](https://www.imdb.com/title/tt0275410/)                                                     |                |
-| [House party 2](https://en.wikipedia.org/wiki/House_Party_2)                                               |                |
-| [Howling][32]                                                                                              |                |
-| [Heavyweights](https://en.wikipedia.org/wiki/Heavyweights)                                                 |                |
-| [Idle Hands](https://en.wikipedia.org/wiki/Idle_Hands)                                                     |                |
-| [Independence Day][33]                                                                                     |                |
-| [Interview with a Vampire][34]                                                                             |
-| [IT][35]                                                                                                   |
-| [Jackass: The Movie](https://en.wikipedia.org/wiki/Jackass:_The_Movie)                                     |
-| [Jaws][36]
-| [Johnny Mnemonic][78]
-| [Judge Dredd][37]
-| [Jurassic Park][38]
-| [Jurassic Park: Lost World](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park)
-| [Jurassic Park III](https://en.wikipedia.org/wiki/Jurassic_Park_III)
-| [Kill Klowns from Outer Space](https://en.wikipedia.org/wiki/Killer_Klowns_from_Outer_Space)
-| [Kiss My A$$](https://en.wikipedia.org/wiki/Kiss_My_Ass:_Classic_Kiss_Regrooved)
-| [Last Horror Film](https://en.wikipedia.org/wiki/The_Last_Horror_Film) **Coming Soon**  
-| [Mad Max](https://en.wikipedia.org/wiki/Mad_Max)
-| [Manhunter][39]
-| [Maniac][82] **Coming Soon**
-| [Maniac Cop](https://en.wikipedia.org/wiki/Maniac_Cop)
-| [Matrix](https://en.wikipedia.org/wiki/The_Matrix)
-| [Men in Black][40]
-| [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II)
-| [Memento][41]
-| [Midnight Cabaret](https://www.imdb.com/title/tt0100146/)
-| [Minority Report][42]
-| [Mirror of Death](https://www.imdb.com/title/tt0130604/)
-| [Mothman Prophecies][43]
-| [Mortal Kombat][44]
-| [Mr. Deeds](https://en.wikipedia.org/wiki/Mr._Deeds)
-| [Mummy][45]
-| [Near dark](https://en.wikipedia.org/wiki/Near_Dark)
-| [Night of the Creeps](https://en.wikipedia.org/wiki/Night_of_the_Creeps)
-| [Night Stalker](https://en.wikipedia.org/wiki/The_Night_Stalker_(1987_film))
-| [Nightmare On Elm Street](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street)
-| [Nightmare on elm street 2](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge)
-| [Nightmare on elm street 3](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3:_Dream_Warriors)
-| [Nightmare on Elm Street 4](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_4:_The_Dream_Master)
-| [Nightmare on Elm Street 5: The Dream Child](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_5:_The_Dream_Child)
-| [Night of the living dead](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)
-| [Nuke‘em High 2](https://en.wikipedia.org/wiki/Class_of_Nuke_%27Em_High_2:_Subhumanoid_Meltdown)
-| [October Sky](https://en.wikipedia.org/wiki/October_Sky)
-| [One Hour Photo](https://en.wikipedia.org/wiki/One_Hour_Photo)
-| [Phantoms][46]
-| [Predator][47]
-| [Predator 2](https://en.wikipedia.org/wiki/Predator_2)
-| [Princess Manonoke](https://en.wikipedia.org/wiki/Princess_Mononoke)
-| [Psycho Cop](https://en.wikipedia.org/wiki/Psycho_Cop)
-| [Psycho III](https://en.wikipedia.org/wiki/Psycho_III)
-| [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)
-| [Punch Drunk Love](https://en.wikipedia.org/wiki/Punch-Drunk_Love)
-| [Return of the Living Dead](https://en.wikipedia.org/wiki/The_Return_of_the_Living_Dead)
-| [Ranma 1/2](https://en.wikipedia.org/wiki/Ranma_%C2%BD)
-| [Raven][48]
-| [Re-Animator](https://en.wikipedia.org/wiki/Re-Animator)
-| [Rebel Without a Cause](https://en.wikipedia.org/wiki/Rebel_Without_a_Cause)
-| [Red Dragon][49]
-| [Resident Evil][50]
-| [Robo Warriors](https://www.imdb.com/title/tt0117497/)
-| [Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)
-| [Royal Tenenbaums](https://en.wikipedia.org/wiki/The_Royal_Tenenbaums)
-| [Rush Hour][51]
-| [Rush Hour 2](https://en.wikipedia.org/wiki/Rush_Hour_2)
-| [Salem’s Lot][52]
-| [Sandlot](https://en.wikipedia.org/wiki/The_Sandlot)
-| [Saw][53]
-| [Saving Private Ryan](https://en.wikipedia.org/wiki/Saving_Private_Ryan)
-| [Scooby Doo][54]
-| [Scooby Doo: Zombie Island](https://en.wikipedia.org/wiki/Scooby-Doo_on_Zombie_Island)
-| [Scream][55]
-| [Scream 2](https://en.wikipedia.org/wiki/Scream_2)
-| [Selena][56]
-| [Se7en][57]
-| [Shanghai Noon](https://en.wikipedia.org/wiki/Shanghai_Noon)
-| [Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)
-| [Silence of the Lambs][58]
-| [Silver Bullet][59]
-| [Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)
-| [Sleepaway Camp](https://en.wikipedia.org/wiki/Sleepaway_Camp)
-| [Sleepy Hallow][60]
-| [Sneakers][61]
-| [Society][83] **Coming Soon**
-| [Sometimes They Come Back... Again](https://en.wikipedia.org/wiki/Sometimes_They_Come_Back..._Again)
-| [Sopranos (Season 1)](https://en.wikipedia.org/wiki/The_Sopranos)
-| [South Park Bigger Longer Uncut](https://en.wikipedia.org/wiki/South_Park:_Bigger,_Longer_%26_Uncut)
-| [Spawn 2](https://www.imdb.com/title/tt4641828/)
-| [Spawn 3](https://www.imdb.com/title/tt4641882/)
-| [Spookies](https://en.wikipedia.org/wiki/Spookies)
-| [Starman][62]
-| [Starship Troopers][63]
-| [Stealing Harvard](https://en.wikipedia.org/wiki/Stealing_Harvard)
-| [Stir of Echos](https://en.wikipedia.org/wiki/Stir_of_Echoes)
-| [Suburbia][64]
-| [Tales From the Crypt][65] (9 episodes)
-| [Tales From the Crypt Presents Bordello of Blood](https://en.wikipedia.org/wiki/Bordello_of_Blood)
-| [Tales From the Darkside](https://en.wikipedia.org/wiki/Tales_from_the_Darkside:_The_Movie) **Coming Soon**
-| [TerrorVision](https://en.wikipedia.org/wiki/TerrorVision)
-| [Texas Chainsaw Massacre 2](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2)
-| [Texas Chainsaw Massacre: The Next Generation](https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation)
-| [The Thing][66]
-| [Ticks][67]
-| [Total Recall][68]
-| [Toxic Avenger][69]
-| [Tremors][70]
-| [Tremors 2](https://en.wikipedia.org/wiki/Tremors_2:_Aftershocks)
-| [Troll][71]
-| [Twister][72]
-| [Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)
-| [Unborn][80]
-| [Unbreakable][73]
-| [Vacation](https://en.wikipedia.org/wiki/National_Lampoon%27s_Vacation)
-| [Videodrome](https://en.wikipedia.org/wiki/Videodrome)
-| [Wayne’s World][74]
-| [When a Stranger Calls Back](https://en.wikipedia.org/wiki/When_a_Stranger_Calls_Back)
-| [Wicker Man](https://en.wikipedia.org/wiki/The_Wicker_Man)
-| [Wild one](https://en.wikipedia.org/wiki/The_Wild_One)
-| [X Files][75]
-| [Zoolander](https://en.wikipedia.org/wiki/Zoolander)
+| [Candyman][11]                                                                                             |                | Metascore: [61](https://www.metacritic.com/movie/candyman)
+| [Casablanca][12]                                                                                           |                | Metascore: [100](https://www.metacritic.com/movie/candyman)
+| [Castle Freak](https://en.wikipedia.org/wiki/Castle_Freak)                                                 |                | RottenTomatoes: [63%](https://www.rottentomatoes.com/m/castle_freak)
+| [Charlie’s Angels][13]                                                                                     |                | Metascore: [52](https://www.metacritic.com/movie/charlies-angels)
+| [Chopping Mall](https://en.wikipedia.org/wiki/Chopping_Mall)                                               |                | Metascore: [22](https://www.metacritic.com/movie/chopping-mall)
+| [Christine][14]                                                                                            |                | Metascore: [57](https://www.metacritic.com/movie/christine-1983)
+| [Class of 1984](https://en.wikipedia.org/wiki/Class_of_1984)                                               |                | Metascore: [49](https://www.metacritic.com/movie/class-of-1984)
+| [Clerks][15]                                                                                               |                | Metascore: [70](https://www.metacritic.com/movie/clerks)
+| [Clueless](https://en.wikipedia.org/wiki/Clueless)                                                         |                | Metascore: [68](https://www.metacritic.com/movie/clueless)
+| [Creepshow](https://en.wikipedia.org/wiki/Creepshow)                                                       |                | Metascore: [59](https://www.metacritic.com/movie/creepshow)
+| [Critters][81] **Coming Soon**                                                                             |                | Metascore: [52](https://www.metacritic.com/movie/critters)
+| [Cruel Intentions](https://en.wikipedia.org/wiki/Cruel_Intentions)                                         |                | Metascore: [56](https://www.metacritic.com/movie/cruel-intentions)
+| [Daredevil][16]                                                                                            |                | Metacore: [42](https://www.metacritic.com/movie/daredevil)
+| [Dark](https://www.imdb.com/title/tt0079027/) **Coming Soon**                                              |                | RottenTomatoes: [19%](https://www.rottentomatoes.com/m/1005276-dark)
+| [Dawn of the Dead][17]                                                                                     |                | Metascore: [71](https://www.metacritic.com/movie/dawn-of-the-dead-1979)
+| [Dazed and Confused][18]                                                                                   |                | Metascore: [78](https://www.metacritic.com/movie/dazed-and-confused)
+| [Debbie Does Dallas](https://en.wikipedia.org/wiki/Debbie_Does_Dallas) **Coming Soon**                     |                | 
+| [Deadly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                | Metascore: [44](https://www.metacritic.com/movie/deadly-friend)
+| [Demolition Man][19]                                                                                       |                | Metascore: [34](https://www.metacritic.com/movie/demolition-man)
+| [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                | RottenTomatoes: [30%](https://www.rottentomatoes.com/m/demonic_toys)
+| [Die Hard](https://en.wikipedia.org/wiki/Die_Hard)                                                         |                | Metascore: [72](https://www.metacritic.com/movie/die-hard)
+| [Die Hard with a Vengeance](https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance)                       |                | Metascore: [58](https://www.metacritic.com/movie/die-hard-with-a-vengeance)
+| [Doom Generation](https://en.wikipedia.org/wiki/The_Doom_Generation)                                       |                | Metascore: [48](https://www.metacritic.com/movie/the-doom-generation)
+| [Dr. Giggles](https://en.wikipedia.org/wiki/Dr._Giggles)                                                   |                | Metascore: [41%](https://www.rottentomatoes.com/m/dr_giggles)
+| [Dracula (Spanish version)][20]                                                                            |                | RottenTomatoes: [1005](https://www.rottentomatoes.com/m/1038489-dracula)
+| [Dumb and Dumber](https://en.wikipedia.org/wiki/Dumb_and_Dumber)                                           |                | Metascore: [41](https://www.metacritic.com/movie/dumb-and-dumber)
+| [Dungeonmaster](https://en.wikipedia.org/wiki/The_Dungeonmaster)                                           |                | LetterBoxd: [2.5/5](https://letterboxd.com/film/the-dungeonmaster/)
+| [Enter The Dragon](https://en.wikipedia.org/wiki/Enter_the_Dragon)                                         |                | Metascore: [83](https://www.metacritic.com/movie/enter-the-dragon)
+| [Evil Dead](https://en.wikipedia.org/wiki/Evil_Dead)                                                       |                | Metascore: [71](https://www.metacritic.com/movie/the-evil-dead)
+| [Evil Dead 2](https://en.wikipedia.org/wiki/Evil_Dead_II)                                                  |                | Metascore: [72](https://www.metacritic.com/movie/evil-dead-ii)
+| [Face/Off](https://en.wikipedia.org/wiki/Face/Off)                                                         |                | Metascore: [82](https://www.metacritic.com/movie/faceoff)
+| [Faculty](https://en.wikipedia.org/wiki/The_Faculty)                                                       |                | Metascore: [61](https://www.metacritic.com/movie/the-faculty)
+| [Fargo][21]                                                                                                |                | Metascore: [85](https://www.metacritic.com/movie/fargo)
+| [Fast and the Furious](https://en.wikipedia.org/wiki/Fast_%26_Furious)                                     |                | Metascore: [58](https://www.metacritic.com/movie/the-fast-and-the-furious)
+| [Fifth Element](https://en.wikipedia.org/wiki/The_Fifth_Element)                                           |                | Metascore: [52](https://www.metacritic.com/movie/the-fifth-element)
+| [Fight Club](https://en.wikipedia.org/wiki/Fight_Club)                                                     |                | Metascore: [66](https://www.metacritic.com/movie/fight-club)
+| [Final Destination][22]                                                                                    |                | Metascore: [36](https://www.metacritic.com/movie/final-destination)
+| [Friday][23]                                                                                               |                | Metascore: [54](https://www.metacritic.com/movie/friday)
+| [Friday the 13th][24]                                                                                      |                | Metascore: [22](https://www.metacritic.com/movie/friday-the-13th-1980)
+| [Friday the 13th Part 2](https://en.wikipedia.org/wiki/Friday_the_13th_Part_2)                             |                | Metascore: [26](https://www.metacritic.com/movie/friday-the-13th-part-2)
+| [Friday the 13th Part 3](https://en.wikipedia.org/wiki/Friday_the_13th_Part_III)                           |                | Metascore: [30](https://www.metacritic.com/movie/friday-the-13th-part-iii)
+| [Friends (Season 1)](https://en.wikipedia.org/wiki/Friends)                                                |                | Metascore: [65](https://www.metacritic.com/tv/friends)
+| [Fright Night](https://en.wikipedia.org/wiki/Fright_Night)                                                 |                | Metascore: [62](https://www.metacritic.com/movie/fright-night-1985)
+| [Fright Night Part II](https://en.wikipedia.org/wiki/Fright_Night_Part_2)                                  |                | RottenTomatoes: [30%](https://www.rottentomatoes.com/m/fright_night_2_1988)
+| [Frighteners](https://en.wikipedia.org/wiki/The_Frighteners)                                               |                | Metascore: [62](https://www.metacritic.com/movie/the-frighteners)
+| [From Beyond][79]                                                                                          |                | RottenTomatoes: [78%](https://www.rottentomatoes.com/m/from_beyond)
+| [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket)                                       |                | Metascore: [76](https://www.metacritic.com/movie/full-metal-jacket)
+| [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters)                                                 |                | Metascore: [71](https://www.metacritic.com/movie/ghostbusters)
+| [Ghoulies](https://en.wikipedia.org/wiki/Ghoulies)                                                         |                | Metascore: [26](https://www.metacritic.com/movie/ghoulies)
+| [Gladiator][25]                                                                                            |                | Metascore: [67](https://www.metacritic.com/movie/gladiator)
+| [Godfather Part II](https://en.wikipedia.org/wiki/The_Godfather_Part_II)                                   |                | Metascore: [90](https://www.metacritic.com/movie/the-godfather-part-ii)
+| [Gone in 60 Seconds][26]                                                                                   |                | Metascore: [56](https://www.metacritic.com/movie/gone-in-60-seconds)
+| [Goosebumps: Night in Terror Tower][27]                                                                    |                | RottenTomatoes: [78%](https://www.rottentomatoes.com/tv/goosebumps)
+| [Goosebumps: Fever Swamp][27]                                                                              |                | RottenTomatoes: [78%](https://www.rottentomatoes.com/tv/goosebumps)
+| [Graduate](https://en.wikipedia.org/wiki/The_Graduate)                                                     |                | Metascore: [83](https://www.metacritic.com/movie/the-graduate)
+| [Grind][77]                                                                                                |                | Metascore: [30](https://www.metacritic.com/movie/grind)
+| [Mobile Suit Gundam Wing](https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Wing) 14-16 20-22               |                | CrunchyRoll: [4/5](https://www.crunchyroll.com/mobile-suit-gundam-wing)
+| [Hackers][28]                                                                                              |                | Metascore: [46](https://www.metacritic.com/movie/hackers)
+| [Halloween][29]                                                                                            |                | Metascore: [87](https://www.metacritic.com/movie/halloween-1978)
+| [Halloween III: Season of the Witch](https://en.wikipedia.org/wiki/Halloween_III:_Season_of_the_Witch)     |                | Metascore: [50](https://www.metacritic.com/movie/halloween-resurrection)
+| [Halloween 4: The Return of Michael Myers](https://en.wikipedia.org/wiki/Halloween_4:_The_Return_of_Michael_Myers)|         | Metascore: [34](https://www.metacritic.com/movie/halloween-iii-season-of-the-witch)
+| [Halloween 5: The Revenge of Michael Myers](https://en.wikipedia.org/wiki/Halloween_5:_The_Revenge_of_Michael_Myers)|       | Metascore: [28](https://www.metacritic.com/movie/halloween-5-the-revenge-of-michael-myers)
+| [Halloween: Resurrection](https://en.wikipedia.org/wiki/Halloween:_Resurrection)                           |                | Metascore: [19](https://www.metacritic.com/movie/halloween-resurrection)
+| [Hannibal][30]                                                                                             |                | Metascore: [57](https://www.metacritic.com/movie/hannibal)
+| [Happy Gilmore](https://en.wikipedia.org/wiki/Happy_Gilmore)                                               |                | Metascore: [31](https://www.metacritic.com/movie/happy-gilmore)
+| [Hills Have Eyes Part 2](https://en.wikipedia.org/wiki/The_Hills_Have_Eyes_Part_II)                        |                | Metascore: [25](https://www.metacritic.com/movie/the-hills-have-eyes-part-ii)
+| [Hocus Pocus][31]                                                                                          |                | RottenTomatoes: [37%](https://www.rottentomatoes.com/m/1045250-hocus_pocus)
+| [Home Alone: Lost in New York](https://en.wikipedia.org/wiki/Home_Alone_2:_Lost_in_New_York)               |                | RottenTomatoes: [33%](https://www.rottentomatoes.com/m/home_alone_2_lost_in_new_york)
+| [Horrorvision](https://www.imdb.com/title/tt0275410/)                                                      |                | RottenTomatoes: [8%](https://www.rottentomatoes.com/m/horrorvision)
+| [House party 2](https://en.wikipedia.org/wiki/House_Party_2)                                               |                | RottenTomatoes: [21%](https://www.rottentomatoes.com/m/house_party_2)
+| [Howling][32]                                                                                              |                | Metascore: [68](https://www.metacritic.com/movie/the-howling)
+| [Heavyweights](https://en.wikipedia.org/wiki/Heavyweights)                                                 |                | Metascore: [42](https://www.metacritic.com/movie/heavyweights)
+| [Idle Hands](https://en.wikipedia.org/wiki/Idle_Hands)                                                     |                | Metascore: [31](https://www.metacritic.com/movie/idle-hands)
+| [Independence Day][33]                                                                                     |                | Metascore: [59](https://www.metacritic.com/movie/independence-day)
+| [Interview with a Vampire][34]                                                                             |                | Metascore: [59](https://www.metacritic.com/movie/interview-with-the-vampire-the-vampire-chronicles)
+| [IT][35]                                                                                                   |                | RottenTomatoes: [67%](https://www.rottentomatoes.com/m/stephen-kings-it1990)
+| [Jackass: The Movie](https://en.wikipedia.org/wiki/Jackass:_The_Movie)                                     |                | Metascore: [42](https://www.metacritic.com/movie/jackass-the-movie)
+| [Jaws][36]                                                                                                 |                | Metascore: [87](https://www.metacritic.com/movie/jaws)
+| [Johnny Mnemonic][78]                                                                                      |                | RottenTomatoes: [12%](https://www.rottentomatoes.com/m/johnny_mnemonic)
+| [Judge Dredd][37]                                                                                          |                | RottenTomatoes: [20%](https://www.rottentomatoes.com/m/judge_dredd)
+| [Jurassic Park][38]                                                                                        |                | Metascore: [68](https://www.metacritic.com/movie/jurassic-park)
+| [Jurassic Park: Lost World](https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park)                   |                | Metascore: [59](https://www.metacritic.com/movie/the-lost-world-jurassic-park)
+| [Jurassic Park III](https://en.wikipedia.org/wiki/Jurassic_Park_III)                                       |                | Metascore: [42](https://www.metacritic.com/movie/jurassic-park-iii)
+| [Kill Klowns from Outer Space](https://en.wikipedia.org/wiki/Killer_Klowns_from_Outer_Space)               |                | Metascore: [43](https://www.metacritic.com/movie/killer-klowns-from-outer-space)
+| [Kiss My A$$](https://en.wikipedia.org/wiki/Kiss_My_Ass:_Classic_Kiss_Regrooved)                           |                | N/A
+| [Last Horror Film](https://en.wikipedia.org/wiki/The_Last_Horror_Film) **Coming Soon**                     |                | LetterBoxd: [3/5](https://letterboxd.com/film/the-last-horror-film/)
+| [Mad Max](https://en.wikipedia.org/wiki/Mad_Max)                                                           |                | Metascore: [73](https://www.metacritic.com/movie/mad-max)
+| [Manhunter][39]                                                                                            |                | Metascore: [75](https://www.metacritic.com/movie/manhunter)
+| [Maniac][82] **Coming Soon**                                                                               |                | Metascore: [22](https://www.metacritic.com/movie/maniac-1981)
+| [Maniac Cop](https://en.wikipedia.org/wiki/Maniac_Cop)                                                     |                | Metascore: [40](https://www.metacritic.com/movie/maniac-cop)
+| [Matrix](https://en.wikipedia.org/wiki/The_Matrix)                                                         |                | Metascore: [73](https://www.metacritic.com/movie/the-matrix)
+| [Men in Black][40]                                                                                         |                | Metascore: [71](https://www.metacritic.com/movie/men-in-black)
+| [Men in Black II](https://en.wikipedia.org/wiki/Men_in_Black_II)                                           |                | Metascore: [49](https://www.metacritic.com/movie/men-in-black-ii)
+| [Memento][41]                                                                                              |                | Metascore: [80](https://www.metacritic.com/movie/memento)
+| [Midnight Cabaret](https://www.imdb.com/title/tt0100146/)                                                  |                | IMDB: [4.5/10](https://www.imdb.com/title/tt0100146/)
+| [Minority Report][42]                                                                                      |                | Metascore: [80](https://www.metacritic.com/movie/minority-report)
+| [Mirror of Death](https://www.imdb.com/title/tt0130604/)                                                   |                | LetterBoxd: [2.8/5](https://letterboxd.com/film/mirror-of-death/)
+| [Mothman Prophecies][43]                                                                                   |                | Metascore: [52](https://www.metacritic.com/movie/the-mothman-prophecies)
+| [Mortal Kombat][44]                                                                                        |                | Metascore: [58](https://www.metacritic.com/movie/mortal-kombat)
+| [Mr. Deeds](https://en.wikipedia.org/wiki/Mr._Deeds)                                                       |                | Metascore: [24](https://www.metacritic.com/movie/mr-deeds)
+| [Mummy][45]                                                                                                |                | Metascore: [48](https://www.metacritic.com/movie/the-mummy)
+| [Near dark](https://en.wikipedia.org/wiki/Near_Dark)                                                       |                | Metascore: [76](https://www.metacritic.com/movie/near-dark)
+| [Night of the Creeps](https://en.wikipedia.org/wiki/Night_of_the_Creeps)                                   |                | Metascore: [62](https://www.metacritic.com/movie/night-of-the-creeps)
+| [Night Stalker][84]                                                                                        |                | IMDB: [5.1/10](https://www.imdb.com/title/tt0093621/)
+| [Nightmare On Elm Street](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street)                         |                | Metascore: [75](https://www.metacritic.com/movie/a-nightmare-on-elm-street-1984)
+| [Nightmare on elm street 2](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge) |                | Metascore: [43](https://www.metacritic.com/movie/a-nightmare-on-elm-street-2-freddys-revenge)
+| [Nightmare on elm street 3](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3:_Dream_Warriors)     |                | Metascore: [49](https://www.metacritic.com/movie/a-nightmare-on-elm-street-3-dream-warriors)
+| [Nightmare on Elm Street 4](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_4:_The_Dream_Master)   |                | Metascore: [56](https://www.metacritic.com/movie/a-nightmare-on-elm-street-3-dream-warriors)
+| [Nightmare on Elm Street 5: The Dream Child](https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_5:_The_Dream_Child)|   | Metascore: [54](https://www.metacritic.com/movie/a-nightmare-on-elm-street-5-the-dream-child)
+| [Night of the living dead](https://en.wikipedia.org/wiki/Night_of_the_Living_Dead)                         |                | Metascore: [89](https://www.metacritic.com/movie/night-of-the-living-dead)
+| [Nuke‘em High 2](https://en.wikipedia.org/wiki/Class_of_Nuke_%27Em_High_2:_Subhumanoid_Meltdown)           |                | Metascore: [25%](https://www.rottentomatoes.com/m/class_of_nuke_em_high_part_ii_subhuman_meltdown)
+| [October Sky](https://en.wikipedia.org/wiki/October_Sky)                                                   |                | Metascore: [71](https://www.metacritic.com/movie/october-sky)
+| [One Hour Photo](https://en.wikipedia.org/wiki/One_Hour_Photo)                                             |                | Metascore: [64](https://www.metacritic.com/movie/one-hour-photo)
+| [Phantoms][46]                                                                                             |                | Metascore: [26](https://www.metacritic.com/movie/phantoms)
+| [Predator][47]                                                                                             |                | Metascore: [45](https://www.metacritic.com/movie/predator)
+| [Predator 2](https://en.wikipedia.org/wiki/Predator_2)                                                     |                | Metascore: [46](https://www.metacritic.com/movie/predator-2)
+| [Princess Manonoke](https://en.wikipedia.org/wiki/Princess_Mononoke)                                       |                | Metascore: [76](https://www.metacritic.com/movie/princess-mononoke)
+| [Psycho Cop](https://en.wikipedia.org/wiki/Psycho_Cop)                                                     |                | RottenTomatoes: [21%](https://www.rottentomatoes.com/m/psycho_cop)
+| [Psycho III](https://en.wikipedia.org/wiki/Psycho_III)                                                     |                | Metascore: [58](https://www.metacritic.com/movie/psycho-iii)
+| [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction)                                                 |                | Metascore: [94](https://www.metacritic.com/movie/pulp-fiction)
+| [Punch Drunk Love](https://en.wikipedia.org/wiki/Punch-Drunk_Love)                                         |                | Metascore: [78](https://www.metacritic.com/movie/punch-drunk-love)
+| [Return of the Living Dead](https://en.wikipedia.org/wiki/The_Return_of_the_Living_Dead)                   |                | Metascore: [66](https://www.metacritic.com/movie/the-return-of-the-living-dead)
+| [Ranma 1/2](https://en.wikipedia.org/wiki/Ranma_%C2%BD)                                                    |                | Metascore: [7.9/10](https://www.imdb.com/title/tt0096686/)
+| [Raven][48]                                                                                                |                | RottenTomatoes: [87%](https://www.rottentomatoes.com/m/1017222-raven)
+| [Re-Animator](https://en.wikipedia.org/wiki/Re-Animator)                                                   |                | Metascore: [73](https://www.metacritic.com/movie/re-animator)
+| [Rebel Without a Cause](https://en.wikipedia.org/wiki/Rebel_Without_a_Cause)                               |                | Metascore: [89](https://www.metacritic.com/movie/rebel-without-a-cause)
+| [Red Dragon][49]                                                                                           |                | Metascore: [60](https://www.metacritic.com/movie/red-dragon)
+| [Resident Evil][50]                                                                                        |                | Metascore: [33](https://www.metacritic.com/movie/resident-evil)
+| [Robo Warriors](https://www.imdb.com/title/tt0117497/)                                                     |                | N/A
+| [Rocky Horror Picture Show](https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show)                   |                | Metascore: [58](https://www.metacritic.com/movie/the-rocky-horror-picture-show)
+| [Royal Tenenbaums](https://en.wikipedia.org/wiki/The_Royal_Tenenbaums)                                     |                | Metascore: [76](https://www.metacritic.com/movie/the-royal-tenenbaums)
+| [Rush Hour][51]                                                                                            |                | Metascore: [60](https://www.metacritic.com/movie/rush-hour)
+| [Rush Hour 2](https://en.wikipedia.org/wiki/Rush_Hour_2)                                                   |                | Metascore: [48](https://www.metacritic.com/movie/rush-hour)
+| [Salem’s Lot][52]                                                                                          |                | RottenTomatoes: [88%](https://www.rottentomatoes.com/m/salems_lot_the_movie)
+| [Sandlot](https://en.wikipedia.org/wiki/The_Sandlot)                                                       |                | RottenTomatoes: [62%](https://www.rottentomatoes.com/m/sandlot)
+| [Saw][53]                                                                                                  |                | Metascore: [46](https://www.metacritic.com/movie/saw)
+| [Saving Private Ryan](https://en.wikipedia.org/wiki/Saving_Private_Ryan)                                   |                | Metascore: [91](https://www.metacritic.com/movie/saving-private-ryan)
+| [Scooby Doo][54]                                                                                           |                | Metascore: [35](https://www.metacritic.com/movie/scooby-doo)
+| [Scooby Doo: Zombie Island](https://en.wikipedia.org/wiki/Scooby-Doo_on_Zombie_Island)                     |                | RottenTomatoes: [86%](https://www.rottentomatoes.com/m/scoobydoo-on-zombie-island)
+| [Scream][55]                                                                                               |                | Metascore: [65](https://www.metacritic.com/movie/scream)
+| [Scream 2](https://en.wikipedia.org/wiki/Scream_2)                                                         |                | Metascore: [63](https://www.metacritic.com/movie/scream-2)
+| [Selena][56]                                                                                               |                | Metascore: [67](https://www.metacritic.com/movie/selena)
+| [Se7en][57]                                                                                                |                | Metascore: [65](https://www.metacritic.com/movie/seven)
+| [Shanghai Noon](https://en.wikipedia.org/wiki/Shanghai_Noon)                                               |                | Metascore: [77](https://www.metacritic.com/movie/shanghai-noon)
+| [Shawshank Redemption](https://en.wikipedia.org/wiki/The_Shawshank_Redemption)                             |                | Metascore: [80](https://www.metacritic.com/movie/the-shawshank-redemption)
+| [Silence of the Lambs][58]                                                                                 |                | Metascore: [85](https://www.metacritic.com/movie/the-silence-of-the-lambs)
+| [Silver Bullet][59]                                                                                        |                | Metascore: [26](https://www.metacritic.com/movie/silver-bullet)
+| [Sixth Sense](https://en.wikipedia.org/wiki/The_Sixth_Sense)                                               |                | Metascore: [64](https://www.metacritic.com/movie/the-sixth-sense)
+| [Sleepaway Camp](https://en.wikipedia.org/wiki/Sleepaway_Camp)                                             |                | Metascore: [58](https://www.metacritic.com/movie/sleepaway-camp)
+| [Sleepy Hallow][60]                                                                                        |                | Metascore: [65](https://www.metacritic.com/movie/sleepy-hollow)
+| [Sneakers][61]                                                                                             |                | Metascore: [65](https://www.metacritic.com/movie/sleepy-hollow)
+| [Society][83] **Coming Soon**                                                                              |                | RottenTomatoes: [55%](https://www.rottentomatoes.com/m/society)
+| [Sometimes They Come Back... Again](https://en.wikipedia.org/wiki/Sometimes_They_Come_Back..._Again)       |                | RottenTomatoes: [36%](https://www.rottentomatoes.com/m/sometimes_they_come_backagain)
+| [Sopranos (Season 1)](https://en.wikipedia.org/wiki/The_Sopranos)                                          |                | Metascore: [94](https://www.metacritic.com/tv/the-sopranos)
+| [South Park Bigger Longer Uncut](https://en.wikipedia.org/wiki/South_Park:_Bigger,_Longer_%26_Uncut)       |                | Metascore: [73](https://www.metacritic.com/movie/south-park-bigger-longer-uncut)
+| [Spawn 2](https://www.imdb.com/title/tt4641828/)                                                           |                | IMDB: [8.3/10](https://www.imdb.com/title/tt4641828/)
+| [Spawn 3](https://www.imdb.com/title/tt4641882/)                                                           |                | IMDB: [8.2/10](https://www.imdb.com/title/tt4641882/)
+| [Spookies](https://en.wikipedia.org/wiki/Spookies)                                                         |                | RottenTomatoes: [20%](https://www.rottentomatoes.com/m/spookies)
+| [Starman][62]                                                                                              |                | Metascore: [70](https://www.metacritic.com/movie/starman)
+| [Starship Troopers][63]                                                                                    |                | Metascore: [51](https://www.metacritic.com/movie/starship-troopers)
+| [Stealing Harvard](https://en.wikipedia.org/wiki/Stealing_Harvard)                                         |                | Metascore: [25](https://www.metacritic.com/movie/stealing-harvard)
+| [Stir of Echos](https://en.wikipedia.org/wiki/Stir_of_Echoes)                                              |                | Metascore: [67](https://www.metacritic.com/movie/stir-of-echoes)
+| [Suburbia][64]                                                                                             |                | Metascore: [62](https://www.metacritic.com/movie/suburbia)
+| [Tales From the Crypt][65] (9 episodes)                                                                    |                | RottenTomatoes: [82%](https://www.rottentomatoes.com/tv/tales_from_the_crypt_1989)
+| [Tales From the Crypt Presents Bordello of Blood](https://en.wikipedia.org/wiki/Bordello_of_Blood)         |                | Metascore: [36](https://www.metacritic.com/movie/tales-from-the-crypt-presents-bordello-of-blood)
+| [Tales From the Crypt: Demon Knight](https://en.wikipedia.org/wiki/Demon_Knight)                           |                | Metascore: [48](https://www.metacritic.com/movie/tales-from-the-crypt-demon-knight)
+| [Tales From the Darkside](https://en.wikipedia.org/wiki/Tales_from_the_Darkside:_The_Movie) **Coming Soon**|                | Metascore: [54](https://www.metacritic.com/movie/tales-from-the-darkside-the-movie)
+| [TerrorVision](https://en.wikipedia.org/wiki/TerrorVision)                                                 |                | RottenTomatoes: [43%](https://www.rottentomatoes.com/m/terrorvision)
+| [Texas Chainsaw Massacre 2](https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_2)                   |                | Metascore: [42](https://www.metacritic.com/movie/the-texas-chainsaw-massacre-2)
+| [Texas Chainsaw Massacre: The Next Generation](https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation)| | Metascore: [50](https://www.metacritic.com/movie/the-texas-chainsaw-massacre-2)
+| [The Thing][66]                                                                                            |                | Metascore: [57](https://www.metacritic.com/movie/the-thing-1982)
+| [Ticks][67]                                                                                                |                | RottenTomatoes: [67%](https://www.rottentomatoes.com/m/ticks)
+| [Total Recall][68]                                                                                         |                | Metascore: [57](https://www.metacritic.com/movie/total-recall)
+| [Toxic Avenger][69]                                                                                        |                | Metascore: [42](https://www.metacritic.com/movie/the-toxic-avenger)
+| [Tremors][70]                                                                                              |                | Metascore: [65](https://www.metacritic.com/movie/tremors)
+| [Tremors 2](https://en.wikipedia.org/wiki/Tremors_2:_Aftershocks)                                          |                | RottenTomatoes: [63%](https://www.rottentomatoes.com/m/tremors_2_aftershocks)
+| [Troll][71]                                                                                                |                | Metascore: [30](https://www.metacritic.com/movie/troll)
+| [Twister][72]                                                                                              |                | Metascore: [68](https://www.metacritic.com/movie/twister)
+| [Usual Suspects](https://en.wikipedia.org/wiki/The_Usual_Suspects)                                         |                | Metascore: [77](https://www.metacritic.com/movie/the-usual-suspects)
+| [Unborn][80]                                                                                               |                | RottenTomatoes: [25%](https://www.rottentomatoes.com/m/unborn)
+| [Unbreakable][73]                                                                                          |                | Metascore: [62](https://www.metacritic.com/movie/unbreakable)
+| [Vacation](https://en.wikipedia.org/wiki/National_Lampoon%27s_Vacation)                                    |                | Metascore: [55](https://www.metacritic.com/movie/national-lampoons-vacation)
+| [Videodrome](https://en.wikipedia.org/wiki/Videodrome)                                                     |                | Metascore: [60](https://www.metacritic.com/movie/videodrome)
+| [Wayne’s World][74]                                                                                        |                | Metascore: [57](https://www.metacritic.com/movie/waynes-world)
+| [When a Stranger Calls Back](https://en.wikipedia.org/wiki/When_a_Stranger_Calls_Back)                     |                | RottenTomatoes: [57%](https://www.rottentomatoes.com/m/when_a_stranger_calls_back)
+| [Wicker Man](https://en.wikipedia.org/wiki/The_Wicker_Man)                                                 |                | Metascore: [87](https://www.metacritic.com/movie/the-wicker-man-1974)
+| [Wild one](https://en.wikipedia.org/wiki/The_Wild_One)                                                     |                | RottenTomatoes: [78%](https://www.rottentomatoes.com/m/wild_one)
+| [X Files][75]                                                                                              |                | Metascore: [60](https://www.metacritic.com/movie/the-x-files)
+| [Zoolander](https://en.wikipedia.org/wiki/Zoolander)                                                       |                | Metascore: [61](https://www.metacritic.com/movie/zoolander)
 
 [1]: https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
 [2]: https://en.wikipedia.org/wiki/Akira_(1988_film)
@@ -304,3 +309,4 @@
 [81]: https://en.wikipedia.org/wiki/Critters_(film)
 [82]: https://en.wikipedia.org/wiki/Maniac_(1980_film)
 [83]: https://en.wikipedia.org/wiki/Society_(film)
+[84]: https://en.wikipedia.org/wiki/The_Night_Stalker_(1987_film)
