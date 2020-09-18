@@ -1,6 +1,6 @@
 # Inventory
 ---
-| Movie (Wiki)                                                                                               | Trailer        | Rating          |
+| Movie (Link to description)                                                                                | Trailer        | Rating          |
 | :---                                                                                                       | :---           | :---            |
 | [10 Things I Hate About You](https://en.wikipedia.org/wiki/10_Things_I_Hate_About_You)                     |                | Metascore: [70](https://www.metacritic.com/movie/10-things-i-hate-about-you) |
 | [3 Ninjas: High Noon at Mega Mountain](https://en.wikipedia.org/wiki/3_Ninjas:_High_Noon_at_Mega_Mountain) |                | Metascore: [44](https://www.metacritic.com/movie/3-ninjas-high-noon-at-mega-mountain)
