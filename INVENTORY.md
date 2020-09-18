@@ -52,7 +52,7 @@
 | [Dark](https://www.imdb.com/title/tt0079027/) **Coming Soon**                                              |                | RottenTomatoes: [19%](https://www.rottentomatoes.com/m/1005276-dark)
 | [Dawn of the Dead][17]                                                                                     |                | Metascore: [71](https://www.metacritic.com/movie/dawn-of-the-dead-1979)
 | [Dazed and Confused][18]                                                                                   |                | Metascore: [78](https://www.metacritic.com/movie/dazed-and-confused)
-| [Debbie Does Dallas](https://en.wikipedia.org/wiki/Debbie_Does_Dallas) **Coming Soon**                     |                | 
+| [Debbie Does Dallas](https://en.wikipedia.org/wiki/Debbie_Does_Dallas) **Coming Soon**                     |                | IMDB: [6/10](https://www.imdb.com/title/tt0077415/)
 | [Deadly Friend](https://en.wikipedia.org/wiki/Deadly_Friend)                                               |                | Metascore: [44](https://www.metacritic.com/movie/deadly-friend)
 | [Demolition Man][19]                                                                                       |                | Metascore: [34](https://www.metacritic.com/movie/demolition-man)
 | [Demonic Toys](https://en.wikipedia.org/wiki/Demonic_Toys)                                                 |                | RottenTomatoes: [30%](https://www.rottentomatoes.com/m/demonic_toys)
